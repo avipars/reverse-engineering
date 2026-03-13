@@ -95,6 +95,7 @@ A curated list of awesome reversing resources
 * [Hiew](http://www.hiew.ru/)
 * [hecate](https://github.com/evanmiller/hecate)
 * [ImHex](https://imhex.werwolv.net/)
+
 ## Binary Format
 
 *Binary Format Tools*
